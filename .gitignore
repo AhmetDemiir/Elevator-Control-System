@@ -1,0 +1,8 @@
+# ModelSim Generated Files
+work/
+transcript
+*.wlf
+*.mpf
+*.mti
+*.ini
+*.bak
